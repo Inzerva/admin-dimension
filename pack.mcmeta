@@ -1,6 +1,15 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "This is a simple admin dimension for command blocks, custom dungeons and event preparing."
+    "description": [
+    	{
+    		"text": "Simple void admin dimension\nCreated by ",
+    		"color": "gray"
+    	},
+    	{
+    		"text": "Inzerva",
+    		"color": "#1d284a"
+    	}
+    ]
   }
 }
