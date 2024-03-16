@@ -1,5 +1,5 @@
 {
-  "type": "simple_dimensions:void_dimension",
+  "type": "simple_dimensions:void_type",
   "generator": {
     "type": "minecraft:flat",
     "settings": {
